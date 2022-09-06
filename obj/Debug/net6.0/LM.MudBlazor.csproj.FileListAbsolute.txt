@@ -1,0 +1,6 @@
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.csproj.AssemblyReference.cache
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.AssemblyInfoInputs.cache
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.AssemblyInfo.cs
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.csproj.CoreCompileInputs.cache
+/Volumes/Data/Projects/NetProjects/LM.MudBlazor/obj/Debug/net6.0/LM.MudBlazor.MvcApplicationPartsAssemblyInfo.cache
